@@ -13,8 +13,7 @@ In this you have to build Frontend and Backend that will provide a mint iterface
 
 ## Smart Contract
 
-- Here is the smart contract address: 
-- It is deployed in Ethereum Sepolia Block Chain. Link for the Sepolia Faucet: 
+- Here is the smart contract address: https://sepolia.etherscan.io/address/0xfb132d7fecfdc01771c6897f04b81f75a28737fb#code
 - The smart contract have mint(uint256 amount) and privateMint(uint256 amount) for interaction.
 - Price for mint = 0.002 ether 
 - Price for privateMint = 0.001 ether
