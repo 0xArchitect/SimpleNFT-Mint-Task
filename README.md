@@ -23,13 +23,15 @@ In this you have to build Frontend and Backend that will provide a mint iterface
 
 
 ## Frontend
-- The frontend should be built on react.js or next.js.
+- The frontend should be built on react.js or next.js. Use of TypeScript is recommended.
 - Must have wallet connect functionality for web3 wallets like metamask.
 - Should be a single page website for the wallet connection and one mint button.
 - Should have loading icon, success and fail message.
 - Should do api call to the backend to check if the wallet is present in db or not
 ## Backend API Reference
-Backend should use Node JS , Express JS and MongoDB as Backend.
+- Backend should use Node JS , Express JS and MongoDB as Backend. Use of TypeScipt is must and use of frameworks like Nest.Js is recommended
+- Backend should have swagger to explore the API.
+- Writing a Dockerfile for the deployment is recommended.
 
 #### Check if the wallet address is present or not
 
